@@ -2,4 +2,5 @@
 **projeto colaborativo da atividade 2 de github**
 
 **colaboradores**
-**MURILO ROEDEL**
+**MURILO ROEDEL** **Marcelo Aguirres**
+
